@@ -1,0 +1,26 @@
+_repo: Kuvia-Raja-Karjalasta_73513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forsström, Otto Adolf
+    gutenberg_agent_id: '57103'
+    url: http://www.gutenberg.org/2009/agents/57103
+description: ''
+gutenberg_issued: '2024-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73513'
+language: fi
+pgterms:marc904: https://digi.kansalliskirjasto.fi/teos/binding/1995184?page=1
+pgterms:marc905: 20240430080147forsstrm
+pgterms:marc906: '1894'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $asinki :$bSuomalaisen Kirjallisuuden Seura, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kuvia Raja-Karjalasta
+url: http://www.gutenberg.org/ebooks/73513
