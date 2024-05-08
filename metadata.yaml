@@ -1,11 +1,16 @@
 _repo: Kuvia-Raja-Karjalasta_73513
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Forsström, Otto Adolf
     gutenberg_agent_id: '57103'
     url: http://www.gutenberg.org/2009/agents/57103
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73513#Kuvia-Raja-Karjalasta
 gutenberg_issued: '2024-05-01'
 gutenberg_type: Text
 identifiers:
